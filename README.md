@@ -34,6 +34,7 @@
 4. Ejecución de ejemplo:
 
     `./twitter_scraper.py --usuarios @iescolar --fecha_inicio 1/01/2018 --fecha_final 15/03/2018 --palabras hospital,feminista
+    
 `
 Esto creará un archivo llamado @iescolar.tsv con información sobre el tweet, por orden:
      Fecha  url_media   media_type  FAV RT  Texto   Nombre_usuario
