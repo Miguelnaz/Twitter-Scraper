@@ -1,11 +1,8 @@
-#! venv/bin python
-
 from __future__ import absolute_import, print_function
 import argparse
 import sys
 
 from tweepy import OAuthHandler
-
 from scripts import buscar_tweets
 
 # The consumer key and secret will be generated for you after

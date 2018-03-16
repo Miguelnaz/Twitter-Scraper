@@ -2,7 +2,7 @@ from pyspark import SparkConf
 from pyspark import SparkContext
 import tweepy
 
-from processing_tools import get_media_url, get_type, print_as_tsv, get_users_from_list, \
+from scripts.processing_tools import get_media_url, get_type, print_as_tsv, get_users_from_list, \
     get_date, get_words
 
 

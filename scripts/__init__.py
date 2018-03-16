@@ -1,1 +1,1 @@
-from buscar_tweets import *
+from scripts.buscar_tweets import *
